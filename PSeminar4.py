@@ -3,8 +3,8 @@
 # - при $d = 0.001, π = 3.141.$    $10^{-1} ≤ d ≤10^{-10}$
 
 
-from math import pi
-print (format (pi,'.3f'))
+# from math import pi
+# print (format (pi,'.3f'))
 
 
 # ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -54,7 +54,6 @@ print (format (pi,'.3f'))
 
 
 # from random import randint
-
 
 # k = int(input('Enter the natural degree: '))
 
